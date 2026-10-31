@@ -58,6 +58,10 @@
 | [`detector`](./detector) | 탐지엔진 · Judge · Blue Agent (비동기 워커) |
 | [`frontend`](https://github.com/2026-Hackathon-teamG/frontend) | 은행 챗봇 UI(bank-ui) · 관제 화면(ops-ui) |
 
+## 📑 발표자료
+
+### [발표자료 전체 보기 (PDF)](./docs/TEAM_G_발표자료.pdf)
+
 ## 🎬 데모
 https://github.com/user-attachments/assets/800d0518-466a-41bc-9066-2e23583e17bc
 
