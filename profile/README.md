@@ -6,6 +6,11 @@
 ### Best Idea Award • 참여기업/기업인 공동상 
 </div>
 
+## 📑 발표자료
+
+
+
+
 ## 📰 왜 만들었나
 
 2026년 9월 말부터 국내 금융권에서 잇따라 고객 데이터 유출 사고가 발생했습니다.
@@ -54,9 +59,7 @@
 | [`frontend`](https://github.com/2026-Hackathon-teamG/frontend) | 은행 챗봇 UI(bank-ui) · 관제 화면(ops-ui) |
 
 ## 🎬 데모
-
-
-
+https://github.com/user-attachments/assets/800d0518-466a-41bc-9066-2e23583e17bc
 
 ## 🛠 기술 스택
 
